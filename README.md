@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white" />
   </a>&nbsp;
   <a href="https://rono-dennis.github.io/Dennis-portfolio/index.html">
-    <img src="https://img.shields.io/static/v1?message=Porfolio&logo=WebRTC&labelColor=green&color=333333&logoColor=white&label=%20&style=plastic" />
+    <img src="https://img.shields.io/static/v1?message=Porfolio&logo=WebRTC&labelColor=green&color=green&logoColor=white&label=%20&style=plastic" />
   </a>&nbsp;
   
 </div>
