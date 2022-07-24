@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rono-dennis&show_icons=true&count_private=true&hide_border=true&theme=vue-dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rono-dennis&layout=compact&langs_count=8&hide_border=true&theme=vue-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rono-dennis&show_icons=true&count_private=true&hide_border=true&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rono-dennis&layout=compact&langs_count=8&hide_border=true&theme=radical"/>
 </div>&nbsp;
