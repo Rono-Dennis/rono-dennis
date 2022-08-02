@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </div>&nbsp;
 
 <div>
-  <a href="https://www.linkedin.com/in/kitongangugi/](https://www.linkedin.com/in/linkedin.com/in/rono-dennis-5a93a618b/">
+  <a href="https://www.linkedin.com/in/linkedin.com/in/rono-dennis-5a93a618b/">
     <img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white" />
   </a>&nbsp;
   <a href="https://rono-dennis.github.io/Dennis-portfolio/index.html">
