@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 <a href="[https://rono-dennis.netlify.app/](https://rono-dennis.github.io/Dennis-portfolio/index.html)"> 
    <img src="https://img.shields.io/static/v1?message=Porfolio&logo=WebRTC&labelColor=5c5c5c&color=333333&logoColor=white&label=%20&style=plastic" /> 
   </a>
+
+show_icons=true&count_private=true&hide_border=true&
 -->
 
 
