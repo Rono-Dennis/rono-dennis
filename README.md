@@ -24,10 +24,10 @@ show_icons=true&count_private=true&hide_border=true&
 -->
 
 <a href="https://github.com/rono-dennis/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rono-dennis&show_icons=true&theme=flag-india&hide_border=true" alt="Rono's Github Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rono-dennis&show_icons=true&theme=radical&hide_border=true" alt="Rono's Github Stats" />
 </a>  
 <a href="https://github.com/rono-dennis/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rono-dennis&layout=compact&theme=flag-indiat&hide_border=true" alt="Rono's Top Languages"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rono-dennis&layout=compact&theme=radical&hide_border=true" alt="Rono's Top Languages"/>
 </a>
 
 
