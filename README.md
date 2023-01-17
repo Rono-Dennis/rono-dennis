@@ -37,7 +37,7 @@ show_icons=true&count_private=true&hide_border=true&
    [flag-india]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=flag-india
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rono-dennis&theme=merko"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rono-dennis&layout=compact&langs_count=8&hide_border=true&theme=radical"/>
-</div>&nbsp;
+</div>&nbsp;-->
 
 <div>
   <a href="https://www.linkedin.com/in/rono-dennis-5a93a618b">
@@ -47,4 +47,4 @@ show_icons=true&count_private=true&hide_border=true&
     <img src="https://img.shields.io/static/v1?message=Porfolio&logo=WebRTC&labelColor=green&color=green&logoColor=white&label=%20&style=plastic" width="70" height="30"/>
   </a>&nbsp;
   
-</div> -->
+</div> 
